@@ -1,0 +1,13 @@
+
+venv/
+__pycache__/
+*.pyc
+.env
+
+data/
+email_dataset.jsonl
+
+models/email-reply-distilgpt2/
+
+.streamlit/secrets.toml
+.DS_Store
